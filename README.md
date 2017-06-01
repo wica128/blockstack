@@ -26,7 +26,7 @@ Edit file /usr/local/lib/python2.7/site-packages/jsontokens/key_loading.py and r
 `from cryptography.hazmat.backends.multibackend import MultiBackend`
 
 
-## First run aka setup.
+### First run aka setup.
 
 `blockstack info`
 
