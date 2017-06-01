@@ -16,7 +16,7 @@ On debian we have a little issue, when we try to run blockstack:
 ImportError: No module named multibackend
 ```
 
-It looks like we do not need this, nut then again I can be wrong.
+It looks like we do not need this, but then again I can be wrong.
 
 Edit file /usr/local/lib/python2.7/site-packages/jsontokens/key_loading.py and remove the line
 `from cryptography.hazmat.backends.multibackend import MultiBackend`
