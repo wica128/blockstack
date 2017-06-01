@@ -51,9 +51,6 @@ Saving configuration to /home/wica/.blockstack/client.ini
 
 
 And test it.
-`blockstack whois wica128.id`
-
-
-
+```blockstack whois wica128.id```
 
 
