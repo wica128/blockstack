@@ -2,7 +2,7 @@
 scripts for working with blockstack
 
 
-# Install Debian
+## Install Debian
 ```
 apt-get install -y python-pip python-dev libssl-dev libffi-dev rng-tools libgmp3-dev
 pip install pyparsing
